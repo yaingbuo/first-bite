@@ -1,0 +1,33 @@
+{
+  "title": "先给你一口",
+  "subtitle": "KOREAN BBQ · SERIES 02",
+  "technique": "炭火与琥珀",
+  "tagline": "筷子 · 炭火 · 第一口",
+  "edition": "No.002 / 002",
+  "collection": "个人全息典藏",
+  "description": "炭火正旺的时候，把最好的那一口递到你面前。",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png",
+    "effects": "./assets/effects.png",
+    "model": "./assets/card.glb"
+  },
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "effectsScale": 1,
+    "effectsDepth": 0.5,
+    "foil": 0.65
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  }
+}
